@@ -2,7 +2,7 @@
 This repository is the official implementation of [Towards Evaluating the Robustness of Neural Networks Learned by Transduction](https://openreview.net/pdf?id=_5js_8uTrx1). 
 
 ## Preliminaries
-It is tested under Ubuntu Linux 16.04.1 and Python 3.6 environment, and requries some packages to be installed:
+It is tested under Ubuntu Linux 16.04.1 and Python 3.6 environment, and requires some packages to be installed:
 * [PyTorch](https://pytorch.org/)
 * [numpy](http://www.numpy.org/)
 * [scikit-learn](https://scikit-learn.org/)
