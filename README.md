@@ -84,3 +84,19 @@ You can run the following scripts to get the results reported in the paper:
 
 ## Acknowledgements
 Part of this code is inspired by [Robustness](https://github.com/hendrycks/robustness), [Adversarial-Attacks-PyTorch](https://github.com/Harry24k/adversarial-attacks-pytorch), [URejectron](https://proceedings.neurips.cc/paper/2020/file/b6c8cf4c587f2ead0c08955ee6e2502b-Supplemental.zip), [DENT](https://github.com/DequanWang/dent) and [Runtime-Masking-and-Cleansing](https://github.com/nthu-datalab/Runtime-Masking-and-Cleansing). 
+
+## Citation 
+Please cite our work if you use the codebase: 
+```
+@inproceedings{
+chen2022towards,
+title={Towards Evaluating the Robustness of Neural Networks Learned by Transduction},
+author={Jiefeng Chen and Xi Wu and Yang Guo and Yingyu Liang and Somesh Jha},
+booktitle={International Conference on Learning Representations},
+year={2022},
+url={https://openreview.net/forum?id=_5js_8uTrx1}
+}
+```
+
+## License
+Please refer to the [LICENSE](LICENSE).
