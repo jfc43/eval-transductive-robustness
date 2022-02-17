@@ -1,5 +1,5 @@
 # Towards Evaluating the Robustness of Neural Networks Learned by Transduction
-This project is for the paper: [Towards Evaluating the Robustness of Neural Networks Learned by Transduction](https://openreview.net/pdf?id=_5js_8uTrx1). 
+This repository is the official implementation of [Towards Evaluating the Robustness of Neural Networks Learned by Transduction](https://openreview.net/pdf?id=_5js_8uTrx1). 
 
 ## Preliminaries
 It is tested under Ubuntu Linux 16.04.1 and Python 3.6 environment, and requries some packages to be installed:
