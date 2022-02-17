@@ -1,0 +1,16 @@
+{
+    "_comment": "===== MODEL CONFIGURATION =====",
+    "model_arch": "lenet",
+    "model_dir": "./saved_models/MNIST",
+  
+    "_comment": "===== DATASET CONFIGURATION =====",
+    "dataset": "mnist",
+    "batch_size": 128,
+    
+    "_comment": "=====ADVERSARIAL EXAMPLES CONFIGURATION=====",
+    "epsilon": 0.3,
+    "eps_iter": 0.01,
+    "nb_iter": 200,
+    "ensemble_size": 10
+  }
+  

@@ -1,0 +1,22 @@
+{
+    "_comment": "===== MODEL CONFIGURATION =====",
+    "model_arch": "resnet20",
+  
+    "_comment": "===== DATASET CONFIGURATION =====",
+    "dataset": "cifar10",
+    "batch_size": 128,
+  
+    "_comment": "===== TRAINING CONFIGURATION =====",
+    "lr": 0.1,
+    "optimizer_name": "SGD",
+    "fraction": 0.5,
+    "print_freq": 10,
+    "max_batches": 10,
+    "nepoch": 110, 
+    
+    "_comment": "=====ADVERSARIAL EXAMPLES CONFIGURATION=====",
+    "epsilon": 8.0,
+    "eps_iter": 2.0,
+    "nb_iter": 10
+  }
+  

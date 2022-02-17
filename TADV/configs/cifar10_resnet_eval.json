@@ -1,0 +1,15 @@
+{
+    "_comment": "===== MODEL CONFIGURATION =====",
+    "model_arch": "resnet20",
+    "model_dir": "./saved_models/CIFAR10",
+    
+    "_comment": "===== DATASET CONFIGURATION =====",
+    "dataset": "cifar10",
+    "batch_size": 100,
+    
+    "_comment": "=====ADVERSARIAL EXAMPLES CONFIGURATION=====",
+    "epsilon": 8.0,
+    "eps_iter": 1.0,
+    "nb_iter": 100,
+    "ensemble_size": 10
+  }

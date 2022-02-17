@@ -1,0 +1,17 @@
+dataset
+datasets
+.ipynb_checkpoints
+checkpoints
+*.pyc
+__pycache__
+outputs
+generate_data
+generate_data_adv
+saved_figures
+figures
+*.png
+data
+ckpt
+output
+saved_models
+generate_data_attack_40
